@@ -1,6 +1,5 @@
 # Once — *fill it once, it speaks for you forever*
 
-*Beyond the Form ETH HACKATON FIRST PLACE*
 
 A browser extension with a memory, built for **Beyond the Form** (ETH Zürich, Challenge 1).
 
